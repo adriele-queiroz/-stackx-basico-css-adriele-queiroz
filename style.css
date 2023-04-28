@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+    text-decoration: none;       
+    }
+
+body{
+    font-family: 'Sarala', sans-serif;
+    font-size: 18px;
+    font-size: 100%;
+    background: linear-gradient(68.15deg,hsl(0, 0%, 98%) 16.62%, hsl(15, 2%, 33%)) 85.61%;
+    color: rgb(31, 32, 33)
+   
+}
+
+.cabecalho{
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 30px;  
+}
+
+.conteudo-principal{
+    padding: 30px 0 0 50px;    
+}
+
+h1 {    
+    margin: 10px 0;
+  }  
+
+  h2 {    
+    margin: 20px 0 10px;   
+    font-size: 32px;
+    background-color: #ccc;
+    width: 500px;
+    border-radius: 5px;
+  }  
+
+  p{
+    font-size: 18px;
+  }
+    
+  ul{
+    font-size: 18px;        
+    padding-left: 20px;
+  }
+  
+  img{
+    border-radius: 10px;
+  }
+
+  .pro{     
+    width: 400px;
+    border-radius:20px;    
+    cursor: pointer;   
+    margin: 15px ;     
+   
+  }
+
+  .pro2{
+    width: 450px;
+    border-radius:20px;    
+    cursor: pointer;   
+    margin: 15px ;  
+    margin-left: 200px;
+  }
+
+  .pro3{
+    width: 450px;
+    border-radius:20px;    
+    cursor: pointer;   
+    margin: 15px ;  
+    margin-left: 400px;
+  }
+   
+   .rodape { 
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
+  }
+
+ 
+
+
+
+
+
